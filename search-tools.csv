@@ -1,0 +1,37 @@
+short_name,keyword,url
+Airbnb,airbnb.com,https://www.airbnb.com/s?location={searchTerms}
+Bing,bing,{bing:baseURL}search?q={searchTerms}&{bing:cvid}{bing:msb}{google:assistedQueryStats}
+"Diccionari Bilingüe Valencià - Català",vlcb,https://diccionari.llenguavalenciana.com/bilingue/consulta/{searchTerms}
+"Diccionaris - Castellà Català",escat,https://www.diccionaris.cat/diccionari/castella-catala/{searchTerms}/0
+"Diccionaris - Català Castellà",cates,https://www.diccionaris.cat/diccionari/catala-castella/{searchTerms}/0
+"Dict Longdo",ld,https://dict.longdo.com/search/{searchTerms}
+GitHub,gh,https://github.com/search?q={searchTerms}
+"Glosbe Afrikaans - English",glafen,https://en.glosbe.com/af/en/{searchTerms}
+"Glosbe English - Afrikaans",glenaf,https://en.glosbe.com/en/af/{searchTerms}
+Google,ggl,{google:baseURL}search?q={searchTerms}&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchboxStats}{google:searchFieldtrialParameter}{google:iOSSearchLanguage}{google:prefetchSource}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}ie={inputEncoding}
+"Google ค้นหารูปภาพ",gglimg,https://www.google.co.th/search?q={searchTerms}&sclient=img&tbm=isch
+"Google แปลภาษา",ggltr,https://translate.google.co.th/?hl=th&sl=auto&tl=en&text={searchTerms}
+"J-Dora Dic",jdr,https://j-doradic.com/?searchPosition=searchBetween&q={searchTerms}
+Jisho,jisho.org,https://jisho.org/search/{searchTerms}
+"Naver 한국어-ไทย",nvth,https://korean.dict.naver.com/kothdict/#/search?query={searchTerms}
+"Reverso - Deutsche Verben Konjugieren",dekj,https://conjugator.reverso.net/conjugation-german-verb-{searchTerms}.html
+"Span¡shD!ctionary",spdict,https://www.spanishdict.com/translate/{searchTerms}
+Twitter,tws,https://twitter.com/search?q={searchTerms}
+"WordReference Castellano - English",wresen,https://www.wordreference.com/esen/{searchTerms}
+"WordReference Castellano - conjugación",wrescj,https://www.wordreference.com/conj/esverbs.aspx?v={searchTerms}
+"WordReference Deutsch - English",wrdeen,https://www.wordreference.com/deen/{searchTerms}
+"WordReference Dutch - English",wrnlen,https://www.wordreference.com/nlen/{searchTerms}
+"WordReference English - Castellano",wrenes,https://www.wordreference.com/enes/{searchTerms}
+"WordReference English - Deutsch",wrende,https://www.wordreference.com/ende/{searchTerms}
+"WordReference English - Dutch",wrennl,https://www.wordreference.com/ennl/{searchTerms}
+"WordReference English - Français",wrenfr,https://www.wordreference.com/enfr/{searchTerms}
+"WordReference Français - Conjugation",wrfrcj,https://www.wordreference.com/conj/frverbs.aspx?v={searchTerms}
+"WordReference Français - English",wrfren,https://www.wordreference.com/fren/{searchTerms}
+YouTube,yt,https://www.youtube.com/results?search_query={searchTerms}
+booking.com,booking.com,https://www.booking.com/searchresults.th.html?ss={searchTerms}&ssne=%E0%B8%97%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%AA%E0%B8%B6&ssne_untouched=%E0%B8%97%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%AA%E0%B8%B6&label=gen173nr-1BCAEoggI46AdIM1gEaN0BiAEBmAEmuAEXyAEM2AEB6AEBiAIBqAIDuALUocykBsACAdICJDk2NWMzMDM4LTJhYzEtNGQ1Yy1iMGRkLTU4NmUwMGRmZTFjONgCBeACAQ&sid=6f4abb817f237987a0892531f9f18263&aid=304142&lang=th&sb=1&src_elem=sb&src=index&dest_id=-3414440&dest_type=city&checkin=2023-06-30&checkout=2023-07-02&group_adults=1&no_rooms=1&group_children=0&sb_travel_purpose=leisure
+duck,duckduckgo.com,https://duckduckgo.com/?q={searchTerms}
+j-doradic.com,j-doradic.com,https://j-doradic.com/?searchPosition=searchBetween&q={searchTerms}
+jisho.org,jso,https://jisho.org/search/{searchTerms}
+"ประวัติ",@hist,edge://history/all?q={searchTerms}
+"รายการโปรด",@fav,edge://favorites/?q={searchTerms}
+"แท็บ",@tabs,edge://history/syncedTabs?q={searchTerms}
