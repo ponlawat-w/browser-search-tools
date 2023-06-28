@@ -17,6 +17,7 @@ Jisho,jisho.org,https://jisho.org/search/{searchTerms}
 "Reverso - Deutsche Verben Konjugieren",dekj,https://conjugator.reverso.net/conjugation-german-verb-{searchTerms}.html
 "Span¡shD!ctionary",spdict,https://www.spanishdict.com/translate/{searchTerms}
 Twitter,tws,https://twitter.com/search?q={searchTerms}
+"Twitter (ล่าสุด)",twsl,https://twitter.com/search?q={searchTerms}&f=live
 "WordReference Castellano - English",wresen,https://www.wordreference.com/esen/{searchTerms}
 "WordReference Castellano - conjugación",wrescj,https://www.wordreference.com/conj/esverbs.aspx?v={searchTerms}
 "WordReference Deutsch - English",wrdeen,https://www.wordreference.com/deen/{searchTerms}
