@@ -1,6 +1,7 @@
 short_name,keyword,url
 Airbnb,airbnb.com,https://www.airbnb.com/s?location={searchTerms}
 Bing,bing,{bing:baseURL}search?q={searchTerms}&{bing:cvid}{bing:msb}{google:assistedQueryStats}
+"Blognone Jobs",jobs.blognone.com,https://jobs.blognone.com/search?q={searchTerms}
 "Diccionari Bilingüe Valencià - Català",vlcb,https://diccionari.llenguavalenciana.com/bilingue/consulta/{searchTerms}
 "Diccionaris - Castellà Català",escat,https://www.diccionaris.cat/diccionari/castella-catala/{searchTerms}/0
 "Diccionaris - Català Castellà",cates,https://www.diccionaris.cat/diccionari/catala-castella/{searchTerms}/0
@@ -12,7 +13,6 @@ Google,ggl,{google:baseURL}search?q={searchTerms}&{google:RLZ}{google:originalQu
 "Google ค้นหารูปภาพ",gglimg,https://www.google.co.th/search?q={searchTerms}&sclient=img&tbm=isch
 "Google แปลภาษา",ggltr,https://translate.google.co.th/?hl=th&sl=auto&tl=en&text={searchTerms}
 "J-Dora Dic",jdr,https://j-doradic.com/?searchPosition=searchBetween&q={searchTerms}
-Jisho,jisho.org,https://jisho.org/search/{searchTerms}
 "Naver 한국어-ไทย",nvth,https://korean.dict.naver.com/kothdict/#/search?query={searchTerms}
 "Reverso - Deutsche Verben Konjugieren",dekj,https://conjugator.reverso.net/conjugation-german-verb-{searchTerms}.html
 "Span¡shD!ctionary",spdict,https://www.spanishdict.com/translate/{searchTerms}
