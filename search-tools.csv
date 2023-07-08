@@ -12,6 +12,7 @@ GitHub,gh,https://github.com/search?q={searchTerms}
 Google,ggl,{google:baseURL}search?q={searchTerms}&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchboxStats}{google:searchFieldtrialParameter}{google:iOSSearchLanguage}{google:prefetchSource}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}ie={inputEncoding}
 "Google ค้นหารูปภาพ",gglimg,https://www.google.co.th/search?q={searchTerms}&sclient=img&tbm=isch
 "Google แปลภาษา",ggltr,https://translate.google.co.th/?hl=th&sl=auto&tl=en&text={searchTerms}
+"Google แผนที่",gglmaps,https://www.google.com/maps?hl=th&q={searchTerms}
 "J-Dora Dic",jdr,https://j-doradic.com/?searchPosition=searchBetween&q={searchTerms}
 "Naver 한국어-ไทย",nvth,https://korean.dict.naver.com/kothdict/#/search?query={searchTerms}
 "Reverso - Deutsche Verben Konjugieren",dekj,https://conjugator.reverso.net/conjugation-german-verb-{searchTerms}.html
