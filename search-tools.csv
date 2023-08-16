@@ -1,28 +1,28 @@
 short_name,keyword,url
 Airbnb,airbnb.com,https://www.airbnb.com/s?location={searchTerms}
 Bing,bing,{bing:baseURL}search?q={searchTerms}&{bing:cvid}{bing:msb}{google:assistedQueryStats}
-"Blognone Jobs",jobs.blognone.com,https://jobs.blognone.com/search?q={searchTerms}
 "Diccionari Bilingüe Valencià - Català",vlcb,https://diccionari.llenguavalenciana.com/bilingue/consulta/{searchTerms}
 "Diccionaris - Castellà Català",escat,https://www.diccionaris.cat/diccionari/castella-catala/{searchTerms}/0
 "Diccionaris - Català Castellà",cates,https://www.diccionaris.cat/diccionari/catala-castella/{searchTerms}/0
 "Dict Longdo",ld,https://dict.longdo.com/search/{searchTerms}
-EPSG.io,epsg.io,https://epsg.io/?q={searchTerms}
+EPSG.io,epsg,https://epsg.io/?q={searchTerms}
 GitHub,gh,https://github.com/search?q={searchTerms}
 "Glosbe Afrikaans - English",glafen,https://en.glosbe.com/af/en/{searchTerms}
 "Glosbe English - Afrikaans",glenaf,https://en.glosbe.com/en/af/{searchTerms}
 Google,ggl,{google:baseURL}search?q={searchTerms}&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchboxStats}{google:searchFieldtrialParameter}{google:iOSSearchLanguage}{google:prefetchSource}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}ie={inputEncoding}
-"Google Drive",drive.google.com,https://drive.google.com/drive/search?q={searchTerms}
+"Google Scholar",gglschl,https://scholar.google.com/scholar?hl=th&q={searchTerms}
 "Google ค้นหารูปภาพ",gglimg,https://www.google.co.th/search?q={searchTerms}&sclient=img&tbm=isch
 "Google แปลภาษา",ggltr,https://translate.google.co.th/?hl=th&sl=auto&tl=en&text={searchTerms}
 "Google แผนที่",gglmaps,https://www.google.com/maps?hl=th&q={searchTerms}
 "J-Dora Dic",jdr,https://j-doradic.com/?searchPosition=searchBetween&q={searchTerms}
+"My GitHub Search",myghs,https://github.com/search?q={searchTerms}+user%3Aponlawat-w&type=repositories
+"My Github Repository",mygh,https://github.com/ponlawat-w/{searchTerms}
 "Naver 한국어-ไทย",nvth,https://korean.dict.naver.com/kothdict/#/search?query={searchTerms}
-"NuGet packages",nuget.org,https://www.nuget.org/packages?q={searchTerms}
 Nuget,nuget,https://www.nuget.org/packages?q={searchTerms}
-OpenStreetMap,openstreetmap.org,https://www.openstreetmap.org/search?query={searchTerms}
+Qiita,qiita.com,https://qiita.com/search?q={searchTerms}
+RAE,rae,https://dle.rae.es/{searchTerms}
 "Reverso - Deutsche Verben Konjugieren",dekj,https://conjugator.reverso.net/conjugation-german-verb-{searchTerms}.html
 "Span¡shD!ctionary",spdict,https://www.spanishdict.com/translate/{searchTerms}
-"Support Home Page Search",payoneer.custhelp.com,https://payoneer.custhelp.com/app/answers/list/kw/{searchTerms}
 Twitter,tws,https://twitter.com/search?q={searchTerms}
 "Twitter (ล่าสุด)",twsl,https://twitter.com/search?q={searchTerms}&f=live
 "WordReference Castellano - English",wresen,https://www.wordreference.com/esen/{searchTerms}
@@ -35,14 +35,10 @@ Twitter,tws,https://twitter.com/search?q={searchTerms}
 "WordReference English - Français",wrenfr,https://www.wordreference.com/enfr/{searchTerms}
 "WordReference Français - Conjugation",wrfrcj,https://www.wordreference.com/conj/frverbs.aspx?v={searchTerms}
 "WordReference Français - English",wrfren,https://www.wordreference.com/fren/{searchTerms}
+Y2Mate,y2mate,https://www.y2mate.com/youtube/{searchTerms}
 YouTube,yt,https://www.youtube.com/results?search_query={searchTerms}
-booking.com,booking.com,https://www.booking.com/searchresults.th.html?ss={searchTerms}&ssne=%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3&ssne_untouched=%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3&label=gen173nr-1BCAEoggI46AdIM1gEaN0BiAEBmAEmuAEXyAEM2AEB6AEBiAIBqAIDuALs4KSmBsACAdICJGNhODEyMGVlLWUzYTQtNDI2Ni05YmFlLTg3NDhhZWU3NzI3ZdgCBeACAQ&sid=014ec9077469ba63251a1539b5e17bea&aid=304142&lang=th&sb=1&src_elem=sb&src=index&dest_id=8905411&dest_type=hotel&ac_position=2&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=3&search_selected=true&search_pageview_id=607072b6bdf7055e&ac_meta=GhA2MDcwNzJiNmJkZjcwNTVlIAIoATICZW46D0hvcCBJbm4gQmFuZ2tva0AASgBQAA%3D%3D&checkin=2023-08-13&checkout=2023-08-19&group_adults=2&no_rooms=1&group_children=0&sb_travel_purpose=leisure
 duck,duckduckgo.com,https://duckduckgo.com/?q={searchTerms}
-j-doradic.com,j-doradic.com,https://j-doradic.com/?searchPosition=searchBetween&q={searchTerms}
 jisho.org,jso,https://jisho.org/search/{searchTerms}
-tagalog-dictionary.com,tagalog-dictionary.com,https://www.tagalog-dictionary.com/search?word={searchTerms}
-upwork.com,upwork.com,https://www.upwork.com/nx/jobs/search/?nbs=1&q={searchTerms}
-weworkremotely.com,weworkremotely.com,https://weworkremotely.com/remote-jobs/search?utf8=%E2%9C%93&term={searchTerms}
 "ประวัติ",@hist,edge://history/all?q={searchTerms}
 "รายการโปรด",@fav,edge://favorites/?q={searchTerms}
 "แท็บ",@tabs,edge://history/syncedTabs?q={searchTerms}
