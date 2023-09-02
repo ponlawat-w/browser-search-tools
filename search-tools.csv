@@ -1,5 +1,4 @@
 short_name,keyword,url
-Airbnb,airbnb.com,https://www.airbnb.com/s?location={searchTerms}
 Bing,bing,{bing:baseURL}search?q={searchTerms}&{bing:cvid}{bing:msb}{google:assistedQueryStats}
 "Diccionari Bilingüe Valencià - Català",vlcb,https://diccionari.llenguavalenciana.com/bilingue/consulta/{searchTerms}
 "Diccionaris - Castellà Català",escat,https://www.diccionaris.cat/diccionari/castella-catala/{searchTerms}/0
@@ -15,8 +14,10 @@ Google,ggl,{google:baseURL}search?q={searchTerms}&{google:RLZ}{google:originalQu
 "Google แปลภาษา",ggltr,https://translate.google.co.th/?hl=th&sl=auto&tl=en&text={searchTerms}
 "Google แผนที่",gglmaps,https://www.google.com/maps?hl=th&q={searchTerms}
 "J-Dora Dic",jdr,https://j-doradic.com/?searchPosition=searchBetween&q={searchTerms}
+MDBG,mdbg,https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=1&wdqb={searchTerms}&dmtm=4
 "My GitHub Search",myghs,https://github.com/search?q={searchTerms}+user%3Aponlawat-w&type=repositories
 "My Github Repository",mygh,https://github.com/ponlawat-w/{searchTerms}
+NPM,npm,https://www.npmjs.com/search?q={searchTerms}
 "Naver 한국어-ไทย",nvth,https://korean.dict.naver.com/kothdict/#/search?query={searchTerms}
 Nuget,nuget,https://www.nuget.org/packages?q={searchTerms}
 Qiita,qiita.com,https://qiita.com/search?q={searchTerms}
