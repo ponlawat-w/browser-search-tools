@@ -1,0 +1,30 @@
+ATTACH DATABASE './.temp.source.sqlite' AS source;
+DELETE FROM keywords;
+INSERT INTO keywords SELECT
+  id,
+  short_name,
+  keyword,
+  favicon_url,
+  url,
+  safe_for_autoreplace,
+  originating_url,
+  date_created,
+  usage_count,
+  input_encodings,
+  suggest_url,
+  prepopulate_id,
+  created_by_policy,
+  last_modified,
+  sync_guid,
+  alternate_urls,
+  image_url,
+  search_url_post_params,
+  suggest_url_post_params,
+  image_url_post_params,
+  new_tab_url,
+  last_visited,
+  created_from_play_api,
+  is_active,
+  starter_pack_id,
+  enforced_by_policy
+FROM source.keywords WHERE keyword NOT IN (SELECT keyword FROM keywords);
