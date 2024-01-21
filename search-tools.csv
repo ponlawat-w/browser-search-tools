@@ -5,10 +5,12 @@ BitBucket,bbk,https://bitbucket.org/repo/all/?name={searchTerms}
 "Diccionaris - Castellà Català",escat,https://www.diccionaris.cat/diccionari/castella-catala/{searchTerms}/0
 "Diccionaris - Català Castellà",cates,https://www.diccionaris.cat/diccionari/catala-castella/{searchTerms}/0
 "Dict Longdo",ld,https://dict.longdo.com/search/{searchTerms}
+"Docker Hub",dckh,https://hub.docker.com/search?q={searchTerms}
 DuckDuckGo,duck,https://duckduckgo.com/?q={searchTerms}
 EPSG.io,epsg,https://epsg.io/?q={searchTerms}
 "Epoch Converter",epoch,https://www.epochconverter.com/?source=searchbar&q={searchTerms}
 GitHub,gh,https://github.com/search?q={searchTerms}
+"GitHub Actions Marketplace",gham,https://github.com/marketplace?category=&type=actions&verification=&query={searchTerms}
 GitLab,gl,https://gitlab.com/search?search={searchTerms}
 "Glosbe Afrikaans - English",glafen,https://en.glosbe.com/af/en/{searchTerms}
 "Glosbe English - Afrikaans",glenaf,https://en.glosbe.com/en/af/{searchTerms}
