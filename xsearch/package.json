@@ -1,0 +1,17 @@
+{
+  "name": "browser-search-tools-xsearch-sync",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "csv": "^6.3.9"
+  },
+  "scripts": {
+    "start": "bun ./index.ts"
+  }
+}

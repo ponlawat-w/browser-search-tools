@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+bun ./xsearch from ./search-tools-xsearch.json ./search-tools.csv

@@ -1,54 +1,50 @@
 short_name,keyword,url
-Bing,bing,{bing:baseURL}search?q={searchTerms}&{bing:cvid}{bing:msb}{google:assistedQueryStats}
 BitBucket,bbk,https://bitbucket.org/repo/all/?name={searchTerms}
-"Diccionari Bilingüe Valencià - Català",vlcb,https://diccionari.llenguavalenciana.com/bilingue/consulta/{searchTerms}
-"Diccionaris - Castellà Català",escat,https://www.diccionaris.cat/diccionari/castella-catala/{searchTerms}/0
-"Diccionaris - Català Castellà",cates,https://www.diccionaris.cat/diccionari/catala-castella/{searchTerms}/0
-"Dict Longdo",ld,https://dict.longdo.com/search/{searchTerms}
-"Docker Hub",dckh,https://hub.docker.com/search?q={searchTerms}
+Diccionari Bilingüe Valencià - Català,vlcb,https://diccionari.llenguavalenciana.com/bilingue/consulta/{searchTerms}
+Diccionaris - Castellà Català,escat,https://www.diccionaris.cat/diccionari/castella-catala/{searchTerms}/0
+Diccionaris - Català Castellà,cates,https://www.diccionaris.cat/diccionari/catala-castella/{searchTerms}/0
+Dict Longdo,ld,https://dict.longdo.com/search/{searchTerms}
+Docker Hub,dckh,https://hub.docker.com/search?q={searchTerms}
 DuckDuckGo,duck,https://duckduckgo.com/?q={searchTerms}
 EPSG.io,epsg,https://epsg.io/?q={searchTerms}
-"Epoch Converter",epoch,https://www.epochconverter.com/?source=searchbar&q={searchTerms}
+Epoch Converter,epoch,https://www.epochconverter.com/?source=searchbar&q={searchTerms}
 GitHub,gh,https://github.com/search?q={searchTerms}
-"GitHub Actions Marketplace",gham,https://github.com/marketplace?category=&type=actions&verification=&query={searchTerms}
+GitHub Actions Marketplace,gham,https://github.com/marketplace?category=&type=actions&verification=&query={searchTerms}
 GitLab,gl,https://gitlab.com/search?search={searchTerms}
-"Glosbe Afrikaans - English",glafen,https://en.glosbe.com/af/en/{searchTerms}
-"Glosbe English - Afrikaans",glenaf,https://en.glosbe.com/en/af/{searchTerms}
+Glosbe Afrikaans - English,glafen,https://en.glosbe.com/af/en/{searchTerms}
+Glosbe English - Afrikaans,glenaf,https://en.glosbe.com/en/af/{searchTerms}
 Google,ggl,{google:baseURL}search?q={searchTerms}&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchboxStats}{google:searchFieldtrialParameter}{google:iOSSearchLanguage}{google:prefetchSource}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}ie={inputEncoding}
-"Google Drive",ggd,https://drive.google.com/drive/search?q={searchTerms}
-"Google Scholar",gglschl,https://scholar.google.com/scholar?hl=th&q={searchTerms}
-"Google ค้นหารูปภาพ",gglimg,https://www.google.co.th/search?q={searchTerms}&sclient=img&tbm=isch
-"Google แปลภาษา",ggltr,https://translate.google.co.th/?hl=th&sl=auto&tl=en&text={searchTerms}
-"Google แผนที่",gglmaps,https://www.google.com/maps?hl=th&q={searchTerms}
-"J-Dora Dic",jdr,https://j-doradic.com/?searchPosition=searchBetween&q={searchTerms}
+Google Drive,ggd,https://drive.google.com/drive/search?q={searchTerms}
+Google Scholar,gglschl,https://scholar.google.com/scholar?hl=th&q={searchTerms}
+Google ค้นหารูปภาพ,gglimg,https://www.google.co.th/search?q={searchTerms}&sclient=img&tbm=isch
+Google แปลภาษา,ggltr,https://translate.google.co.th/?hl=th&sl=auto&tl=en&text={searchTerms}
+Google แผนที่,gglmaps,https://www.google.com/maps?hl=th&q={searchTerms}
+J-Dora Dic,jdr,https://j-doradic.com/?searchPosition=searchBetween&q={searchTerms}
 MDBG,mdbg,https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=1&wdqb={searchTerms}&dmtm=4
-"My GitHub Search",myghs,https://github.com/search?q={searchTerms}+user%3Aponlawat-w&type=repositories
-"My Github Repository",mygh,https://github.com/ponlawat-w/{searchTerms}
+My GitHub Search,myghs,https://github.com/search?q={searchTerms}+user%3Aponlawat-w&type=repositories
+My Github Repository,mygh,https://github.com/ponlawat-w/{searchTerms}
 NPM,npm,https://www.npmjs.com/search?q={searchTerms}
-"Naver 한국어-ไทย",nvth,https://korean.dict.naver.com/kothdict/#/search?query={searchTerms}
+Naver 한국어-ไทย,nvth,https://korean.dict.naver.com/kothdict/#/search?query={searchTerms}
 Nuget,nuget,https://www.nuget.org/packages?q={searchTerms}
 OpenStreetMap,osm,https://www.openstreetmap.org/search?query={searchTerms}
 Qiita,qiita,https://qiita.com/search?q={searchTerms}
 RAE,rae,https://dle.rae.es/{searchTerms}
-"Reverso - Deutsche Verben Konjugieren",dekj,https://conjugator.reverso.net/conjugation-german-verb-{searchTerms}.html
-"Span¡shD!ctionary",spdict,https://www.spanishdict.com/translate/{searchTerms}
+Reverso - Deutsche Verben Konjugieren,dekj,https://conjugator.reverso.net/conjugation-german-verb-{searchTerms}.html
+Span¡shD!ctionary,spdict,https://www.spanishdict.com/translate/{searchTerms}
 Twitter,tws,https://twitter.com/search?q={searchTerms}
-"Twitter (ล่าสุด)",twsl,https://twitter.com/search?q={searchTerms}&f=live
+Twitter (ล่าสุด),twsl,https://twitter.com/search?q={searchTerms}&f=live
 UNPKG,unpkg,https://www.unpkg.com/{searchTerms}
-"UNPKG Browse",unpkgb,https://www.unpkg.com/browse/{searchTerms}/
-"WordReference Castellano - English",wresen,https://www.wordreference.com/esen/{searchTerms}
-"WordReference Castellano - conjugación",wrescj,https://www.wordreference.com/conj/esverbs.aspx?v={searchTerms}
-"WordReference Deutsch - English",wrdeen,https://www.wordreference.com/deen/{searchTerms}
-"WordReference Dutch - English",wrnlen,https://www.wordreference.com/nlen/{searchTerms}
-"WordReference English - Castellano",wrenes,https://www.wordreference.com/enes/{searchTerms}
-"WordReference English - Deutsch",wrende,https://www.wordreference.com/ende/{searchTerms}
-"WordReference English - Dutch",wrennl,https://www.wordreference.com/ennl/{searchTerms}
-"WordReference English - Français",wrenfr,https://www.wordreference.com/enfr/{searchTerms}
-"WordReference Français - Conjugation",wrfrcj,https://www.wordreference.com/conj/frverbs.aspx?v={searchTerms}
-"WordReference Français - English",wrfren,https://www.wordreference.com/fren/{searchTerms}
+UNPKG Browse,unpkgb,https://www.unpkg.com/browse/{searchTerms}/
+WordReference Castellano - English,wresen,https://www.wordreference.com/esen/{searchTerms}
+WordReference Castellano - conjugación,wrescj,https://www.wordreference.com/conj/esverbs.aspx?v={searchTerms}
+WordReference Deutsch - English,wrdeen,https://www.wordreference.com/deen/{searchTerms}
+WordReference Dutch - English,wrnlen,https://www.wordreference.com/nlen/{searchTerms}
+WordReference English - Castellano,wrenes,https://www.wordreference.com/enes/{searchTerms}
+WordReference English - Deutsch,wrende,https://www.wordreference.com/ende/{searchTerms}
+WordReference English - Dutch,wrennl,https://www.wordreference.com/ennl/{searchTerms}
+WordReference English - Français,wrenfr,https://www.wordreference.com/enfr/{searchTerms}
+WordReference Français - Conjugation,wrfrcj,https://www.wordreference.com/conj/frverbs.aspx?v={searchTerms}
+WordReference Français - English,wrfren,https://www.wordreference.com/fren/{searchTerms}
 Y2Mate,y2mate,https://www.y2mate.com/youtube/{searchTerms}
 YouTube,yt,https://www.youtube.com/results?search_query={searchTerms}
 jisho.org,jso,https://jisho.org/search/{searchTerms}
-"ประวัติ",@hist,edge://history/all?q={searchTerms}
-"รายการโปรด",@fav,edge://favorites/?q={searchTerms}
-"แท็บ",@tabs,edge://history/syncedTabs?q={searchTerms}
