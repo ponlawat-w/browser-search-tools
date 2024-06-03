@@ -1,345 +1,352 @@
 [
   {
-    "title": "BitBucket",
-    "shortcuts": [
+    "title" : "BitBucket",
+    "shortcuts" : [
       "bbk"
     ],
-    "mobile": "https://bitbucket.org/repo/all/?name=%s"
+    "mobile" : "https:\/\/bitbucket.org\/repo\/all\/?name=%s"
   },
   {
-    "title": "Diccionari Bilingüe Valencià - Català",
-    "shortcuts": [
+    "shortcuts" : [
       "vlcb"
     ],
-    "mobile": "https://diccionari.llenguavalenciana.com/bilingue/consulta/%s"
+    "mobile" : "https:\/\/diccionari.llenguavalenciana.com\/bilingue\/consulta\/%s",
+    "title" : "Diccionari Bilingüe Valencià - Català"
   },
   {
-    "title": "Diccionaris - Castellà Català",
-    "shortcuts": [
+    "mobile" : "https:\/\/www.diccionari.cat\/GDLC\/%s",
+    "title" : "Diccionari Normatiu Català",
+    "shortcuts" : [
+      "gdlc"
+    ]
+  },
+  {
+    "mobile" : "https:\/\/www.avl.gva.es\/lexicval\/?paraula=%s",
+    "shortcuts" : [
+      "gva"
+    ],
+    "title" : "Diccionari Normatiu Valencià"
+  },
+  {
+    "title" : "Diccionaris - Castellà Català",
+    "shortcuts" : [
       "escat"
     ],
-    "mobile": "https://www.diccionaris.cat/diccionari/castella-catala/%s/0"
+    "mobile" : "https:\/\/www.diccionaris.cat\/diccionari\/castella-catala\/%s\/0"
   },
   {
-    "title": "Diccionaris - Català Castellà",
-    "shortcuts": [
+    "title" : "Diccionaris - Català Castellà",
+    "mobile" : "https:\/\/www.diccionaris.cat\/diccionari\/catala-castella\/%s\/0",
+    "shortcuts" : [
       "cates"
-    ],
-    "mobile": "https://www.diccionaris.cat/diccionari/catala-castella/%s/0"
+    ]
   },
   {
-    "title": "Dict Longdo",
-    "shortcuts": [
+    "title" : "Dict Longdo",
+    "mobile" : "https:\/\/dict.longdo.com\/search\/%s",
+    "shortcuts" : [
       "ld"
-    ],
-    "mobile": "https://dict.longdo.com/search/%s"
+    ]
   },
   {
-    "title": "Docker Hub",
-    "shortcuts": [
+    "title" : "Docker Hub",
+    "mobile" : "https:\/\/hub.docker.com\/search?q=%s",
+    "shortcuts" : [
       "dckh"
-    ],
-    "mobile": "https://hub.docker.com/search?q=%s"
+    ]
   },
   {
-    "title": "DuckDuckGo",
-    "shortcuts": [
+    "shortcuts" : [
       "duck"
     ],
-    "mobile": "https://duckduckgo.com/?q=%s"
+    "mobile" : "https:\/\/duckduckgo.com\/?q=%s",
+    "title" : "DuckDuckGo"
   },
   {
-    "title": "EPSG.io",
-    "shortcuts": [
-      "epsg"
-    ],
-    "mobile": "https://epsg.io/?q=%s"
-  },
-  {
-    "title": "Epoch Converter",
-    "shortcuts": [
+    "shortcuts" : [
       "epoch"
     ],
-    "mobile": "https://www.epochconverter.com/?source=searchbar&q=%s"
+    "mobile" : "https:\/\/www.epochconverter.com\/?source=searchbar&q=%s",
+    "title" : "Epoch Converter"
   },
   {
-    "title": "GitHub",
-    "shortcuts": [
+    "shortcuts" : [
+      "epsg"
+    ],
+    "title" : "EPSG.io",
+    "mobile" : "https:\/\/epsg.io\/?q=%s"
+  },
+  {
+    "shortcuts" : [
       "gh"
     ],
-    "mobile": "https://github.com/search?q=%s"
+    "title" : "GitHub",
+    "mobile" : "https:\/\/github.com\/search?q=%s"
   },
   {
-    "title": "GitHub Actions Marketplace",
-    "shortcuts": [
+    "title" : "GitHub Actions Marketplace",
+    "shortcuts" : [
       "gham"
     ],
-    "mobile": "https://github.com/marketplace?category=&type=actions&verification=&query=%s"
+    "mobile" : "https:\/\/github.com\/marketplace?category=&type=actions&verification=&query=%s"
   },
   {
-    "title": "GitLab",
-    "shortcuts": [
+    "mobile" : "https:\/\/gitlab.com\/search?search=%s",
+    "title" : "GitLab",
+    "shortcuts" : [
       "gl"
-    ],
-    "mobile": "https://gitlab.com/search?search=%s"
+    ]
   },
   {
-    "title": "Glosbe Afrikaans - English",
-    "shortcuts": [
+    "shortcuts" : [
       "glafen"
     ],
-    "mobile": "https://en.glosbe.com/af/en/%s"
+    "title" : "Glosbe Afrikaans - English",
+    "mobile" : "https:\/\/en.glosbe.com\/af\/en\/%s"
   },
   {
-    "title": "Glosbe English - Afrikaans",
-    "shortcuts": [
+    "shortcuts" : [
       "glenaf"
     ],
-    "mobile": "https://en.glosbe.com/en/af/%s"
+    "title" : "Glosbe English - Afrikaans",
+    "mobile" : "https:\/\/en.glosbe.com\/en\/af\/%s"
   },
   {
-    "title": "Google",
-    "shortcuts": [
-      "ggl"
-    ],
-    "mobile": "{google:baseURL}search?q=%s&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchboxStats}{google:searchFieldtrialParameter}{google:iOSSearchLanguage}{google:prefetchSource}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}ie={inputEncoding}"
-  },
-  {
-    "title": "Google Drive",
-    "shortcuts": [
+    "title" : "Google Drive",
+    "shortcuts" : [
       "ggd"
     ],
-    "mobile": "https://drive.google.com/drive/search?q=%s"
+    "mobile" : "https:\/\/drive.google.com\/drive\/search?q=%s"
   },
   {
-    "title": "Google Scholar",
-    "shortcuts": [
+    "mobile" : "https:\/\/scholar.google.com\/scholar?hl=th&q=%s",
+    "shortcuts" : [
       "gglschl"
     ],
-    "mobile": "https://scholar.google.com/scholar?hl=th&q=%s"
+    "title" : "Google Scholar"
   },
   {
-    "title": "Google ค้นหารูปภาพ",
-    "shortcuts": [
+    "shortcuts" : [
       "gglimg"
     ],
-    "mobile": "https://www.google.co.th/search?q=%s&sclient=img&tbm=isch"
+    "mobile" : "https:\/\/www.google.co.th\/search?q=%s&sclient=img&tbm=isch",
+    "title" : "Google ค้นหารูปภาพ"
   },
   {
-    "title": "Google แปลภาษา",
-    "shortcuts": [
+    "mobile" : "https:\/\/translate.google.co.th\/?hl=th&sl=auto&tl=en&text=%s",
+    "title" : "Google แปลภาษา",
+    "shortcuts" : [
       "ggltr"
-    ],
-    "mobile": "https://translate.google.co.th/?hl=th&sl=auto&tl=en&text=%s"
+    ]
   },
   {
-    "title": "Google แผนที่",
-    "shortcuts": [
+    "mobile" : "https:\/\/www.google.com\/maps?hl=th&q=%s",
+    "title" : "Google แผนที่",
+    "shortcuts" : [
       "gglmaps"
-    ],
-    "mobile": "https://www.google.com/maps?hl=th&q=%s"
+    ]
   },
   {
-    "title": "J-Dora Dic",
-    "shortcuts": [
+    "title" : "J-Dora Dic",
+    "shortcuts" : [
       "jdr"
     ],
-    "mobile": "https://j-doradic.com/?searchPosition=searchBetween&q=%s"
+    "mobile" : "https:\/\/j-doradic.com\/?searchPosition=searchBetween&q=%s"
   },
   {
-    "title": "MDBG",
-    "shortcuts": [
-      "mdbg"
-    ],
-    "mobile": "https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=1&wdqb=%s&dmtm=4"
-  },
-  {
-    "title": "My GitHub Search",
-    "shortcuts": [
-      "myghs"
-    ],
-    "mobile": "https://github.com/search?q=%s+user%3Aponlawat-w&type=repositories"
-  },
-  {
-    "title": "My Github Repository",
-    "shortcuts": [
-      "mygh"
-    ],
-    "mobile": "https://github.com/ponlawat-w/%s"
-  },
-  {
-    "title": "NPM",
-    "shortcuts": [
-      "npm"
-    ],
-    "mobile": "https://www.npmjs.com/search?q=%s"
-  },
-  {
-    "title": "Naver 한국어-ไทย",
-    "shortcuts": [
-      "nvth"
-    ],
-    "mobile": "https://korean.dict.naver.com/kothdict/#/search?query=%s"
-  },
-  {
-    "title": "Nuget",
-    "shortcuts": [
-      "nuget"
-    ],
-    "mobile": "https://www.nuget.org/packages?q=%s"
-  },
-  {
-    "title": "OpenStreetMap",
-    "shortcuts": [
-      "osm"
-    ],
-    "mobile": "https://www.openstreetmap.org/search?query=%s"
-  },
-  {
-    "title": "Qiita",
-    "shortcuts": [
-      "qiita"
-    ],
-    "mobile": "https://qiita.com/search?q=%s"
-  },
-  {
-    "title": "RAE",
-    "shortcuts": [
-      "rae"
-    ],
-    "mobile": "https://dle.rae.es/%s"
-  },
-  {
-    "title": "Reverso - Deutsche Verben Konjugieren",
-    "shortcuts": [
-      "dekj"
-    ],
-    "mobile": "https://conjugator.reverso.net/conjugation-german-verb-%s.html"
-  },
-  {
-    "title": "Span¡shD!ctionary",
-    "shortcuts": [
-      "spdict"
-    ],
-    "mobile": "https://www.spanishdict.com/translate/%s"
-  },
-  {
-    "title": "Twitter",
-    "shortcuts": [
-      "tws"
-    ],
-    "mobile": "https://twitter.com/search?q=%s"
-  },
-  {
-    "title": "Twitter (ล่าสุด)",
-    "shortcuts": [
-      "twsl"
-    ],
-    "mobile": "https://twitter.com/search?q=%s&f=live"
-  },
-  {
-    "title": "UNPKG",
-    "shortcuts": [
-      "unpkg"
-    ],
-    "mobile": "https://www.unpkg.com/%s"
-  },
-  {
-    "title": "UNPKG Browse",
-    "shortcuts": [
-      "unpkgb"
-    ],
-    "mobile": "https://www.unpkg.com/browse/%s/"
-  },
-  {
-    "title": "WordReference Castellano - English",
-    "shortcuts": [
-      "wresen"
-    ],
-    "mobile": "https://www.wordreference.com/esen/%s"
-  },
-  {
-    "title": "WordReference Castellano - conjugación",
-    "shortcuts": [
-      "wrescj"
-    ],
-    "mobile": "https://www.wordreference.com/conj/esverbs.aspx?v=%s"
-  },
-  {
-    "title": "WordReference Deutsch - English",
-    "shortcuts": [
-      "wrdeen"
-    ],
-    "mobile": "https://www.wordreference.com/deen/%s"
-  },
-  {
-    "title": "WordReference Dutch - English",
-    "shortcuts": [
-      "wrnlen"
-    ],
-    "mobile": "https://www.wordreference.com/nlen/%s"
-  },
-  {
-    "title": "WordReference English - Castellano",
-    "shortcuts": [
-      "wrenes"
-    ],
-    "mobile": "https://www.wordreference.com/enes/%s"
-  },
-  {
-    "title": "WordReference English - Deutsch",
-    "shortcuts": [
-      "wrende"
-    ],
-    "mobile": "https://www.wordreference.com/ende/%s"
-  },
-  {
-    "title": "WordReference English - Dutch",
-    "shortcuts": [
-      "wrennl"
-    ],
-    "mobile": "https://www.wordreference.com/ennl/%s"
-  },
-  {
-    "title": "WordReference English - Français",
-    "shortcuts": [
-      "wrenfr"
-    ],
-    "mobile": "https://www.wordreference.com/enfr/%s"
-  },
-  {
-    "title": "WordReference Français - Conjugation",
-    "shortcuts": [
-      "wrfrcj"
-    ],
-    "mobile": "https://www.wordreference.com/conj/frverbs.aspx?v=%s"
-  },
-  {
-    "title": "WordReference Français - English",
-    "shortcuts": [
-      "wrfren"
-    ],
-    "mobile": "https://www.wordreference.com/fren/%s"
-  },
-  {
-    "title": "Y2Mate",
-    "shortcuts": [
-      "y2mate"
-    ],
-    "mobile": "https://www.y2mate.com/youtube/%s"
-  },
-  {
-    "title": "YouTube",
-    "shortcuts": [
-      "yt"
-    ],
-    "mobile": "https://www.youtube.com/results?search_query=%s"
-  },
-  {
-    "title": "jisho.org",
-    "shortcuts": [
+    "title" : "jisho.org",
+    "shortcuts" : [
       "jso"
     ],
-    "mobile": "https://jisho.org/search/%s"
+    "mobile" : "https:\/\/jisho.org\/search\/%s"
+  },
+  {
+    "shortcuts" : [
+      "mdbg"
+    ],
+    "title" : "MDBG",
+    "mobile" : "https:\/\/www.mdbg.net\/chinese\/dictionary?page=worddict&wdrst=1&wdqb=%s&dmtm=4"
+  },
+  {
+    "title" : "My Github Repository",
+    "shortcuts" : [
+      "mygh"
+    ],
+    "mobile" : "https:\/\/github.com\/ponlawat-w\/%s"
+  },
+  {
+    "mobile" : "https:\/\/github.com\/search?q=%s+user%3Aponlawat-w&type=repositories",
+    "title" : "My GitHub Search",
+    "shortcuts" : [
+      "myghs"
+    ]
+  },
+  {
+    "mobile" : "https:\/\/korean.dict.naver.com\/kothdict\/#\/search?query=%s",
+    "shortcuts" : [
+      "nvth"
+    ],
+    "title" : "Naver 한국어-ไทย"
+  },
+  {
+    "title" : "NPM",
+    "mobile" : "https:\/\/www.npmjs.com\/search?q=%s",
+    "shortcuts" : [
+      "npm"
+    ]
+  },
+  {
+    "shortcuts" : [
+      "nuget"
+    ],
+    "mobile" : "https:\/\/www.nuget.org\/packages?q=%s",
+    "title" : "Nuget"
+  },
+  {
+    "mobile" : "https:\/\/www.openstreetmap.org\/search?query=%s",
+    "shortcuts" : [
+      "osm"
+    ],
+    "title" : "OpenStreetMap"
+  },
+  {
+    "shortcuts" : [
+      "qiita"
+    ],
+    "mobile" : "https:\/\/qiita.com\/search?q=%s",
+    "title" : "Qiita"
+  },
+  {
+    "title" : "RAE",
+    "mobile" : "https:\/\/dle.rae.es\/%s",
+    "shortcuts" : [
+      "rae"
+    ]
+  },
+  {
+    "mobile" : "https:\/\/conjugator.reverso.net\/conjugation-german-verb-%s.html",
+    "shortcuts" : [
+      "dekj"
+    ],
+    "title" : "Reverso - Deutsche Verben Konjugieren"
+  },
+  {
+    "title" : "Span¡shD!ctionary",
+    "mobile" : "https:\/\/www.spanishdict.com\/translate\/%s",
+    "shortcuts" : [
+      "spdict"
+    ]
+  },
+  {
+    "title" : "Twitter",
+    "shortcuts" : [
+      "tws"
+    ],
+    "mobile" : "https:\/\/twitter.com\/search?q=%s"
+  },
+  {
+    "title" : "Twitter (ล่าสุด)",
+    "mobile" : "https:\/\/twitter.com\/search?q=%s&f=live",
+    "shortcuts" : [
+      "twsl"
+    ]
+  },
+  {
+    "mobile" : "https:\/\/www.unpkg.com\/%s",
+    "title" : "UNPKG",
+    "shortcuts" : [
+      "unpkg"
+    ]
+  },
+  {
+    "shortcuts" : [
+      "unpkgb"
+    ],
+    "title" : "UNPKG Browse",
+    "mobile" : "https:\/\/www.unpkg.com\/browse\/%s\/"
+  },
+  {
+    "title" : "WordReference Castellano - conjugación",
+    "shortcuts" : [
+      "wrescj"
+    ],
+    "mobile" : "https:\/\/www.wordreference.com\/conj\/esverbs.aspx?v=%s"
+  },
+  {
+    "title" : "WordReference Castellano - English",
+    "shortcuts" : [
+      "wresen"
+    ],
+    "mobile" : "https:\/\/www.wordreference.com\/esen\/%s"
+  },
+  {
+    "mobile" : "https:\/\/www.wordreference.com\/deen\/%s",
+    "title" : "WordReference Deutsch - English",
+    "shortcuts" : [
+      "wrdeen"
+    ]
+  },
+  {
+    "title" : "WordReference Dutch - English",
+    "shortcuts" : [
+      "wrnlen"
+    ],
+    "mobile" : "https:\/\/www.wordreference.com\/nlen\/%s"
+  },
+  {
+    "shortcuts" : [
+      "wrenes"
+    ],
+    "mobile" : "https:\/\/www.wordreference.com\/enes\/%s",
+    "title" : "WordReference English - Castellano"
+  },
+  {
+    "shortcuts" : [
+      "wrende"
+    ],
+    "mobile" : "https:\/\/www.wordreference.com\/ende\/%s",
+    "title" : "WordReference English - Deutsch"
+  },
+  {
+    "shortcuts" : [
+      "wrennl"
+    ],
+    "mobile" : "https:\/\/www.wordreference.com\/ennl\/%s",
+    "title" : "WordReference English - Dutch"
+  },
+  {
+    "title" : "WordReference English - Français",
+    "shortcuts" : [
+      "wrenfr"
+    ],
+    "mobile" : "https:\/\/www.wordreference.com\/enfr\/%s"
+  },
+  {
+    "mobile" : "https:\/\/www.wordreference.com\/conj\/frverbs.aspx?v=%s",
+    "title" : "WordReference Français - Conjugation",
+    "shortcuts" : [
+      "wrfrcj"
+    ]
+  },
+  {
+    "title" : "WordReference Français - English",
+    "mobile" : "https:\/\/www.wordreference.com\/fren\/%s",
+    "shortcuts" : [
+      "wrfren"
+    ]
+  },
+  {
+    "shortcuts" : [
+      "y2mate"
+    ],
+    "title" : "Y2Mate",
+    "mobile" : "https:\/\/www.y2mate.com\/youtube\/%s"
+  },
+  {
+    "mobile" : "https:\/\/www.youtube.com\/results?search_query=%s",
+    "title" : "YouTube",
+    "shortcuts" : [
+      "yt"
+    ]
   }
 ]
