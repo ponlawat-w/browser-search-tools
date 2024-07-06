@@ -17,6 +17,7 @@ GitHub Actions Marketplace,gham,https://github.com/marketplace?category=&type=ac
 GitLab,gl,https://gitlab.com/search?search={searchTerms}
 Glosbe Afrikaans - English,glafen,https://en.glosbe.com/af/en/{searchTerms}
 Glosbe English - Afrikaans,glenaf,https://en.glosbe.com/en/af/{searchTerms}
+Google,ggl,https://www.google.co.th/search?q={searchTerms}
 Google Drive,ggd,https://drive.google.com/drive/search?q={searchTerms}
 Google Scholar,gglschl,https://scholar.google.com/scholar?hl=th&q={searchTerms}
 Google ค้นหารูปภาพ,gglimg,https://www.google.co.th/search?q={searchTerms}&sclient=img&tbm=isch
