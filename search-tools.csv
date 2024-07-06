@@ -1,5 +1,7 @@
 short_name,keyword,url
+Bing,bing,https://www.bing.com/search?q={searchTerms}
 BitBucket,bbk,https://bitbucket.org/repo/all/?name={searchTerms}
+Conjugació del Verb en Català,catcj,https://www.softcatala.org/conjugador-de-verbs/verb/{searchTerms}/
 Diccionari Bilingüe Valencià - Català,vlcb,https://diccionari.llenguavalenciana.com/bilingue/consulta/{searchTerms}
 Diccionari Normatiu Català,gdlc,https://www.diccionari.cat/GDLC/{searchTerms}
 Diccionari Normatiu Valencià,gva,https://www.avl.gva.es/lexicval/?paraula={searchTerms}
@@ -26,7 +28,7 @@ MDBG,mdbg,https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=1&wdqb={se
 My Github Repository,mygh,https://github.com/ponlawat-w/{searchTerms}
 My GitHub Search,myghs,https://github.com/search?q={searchTerms}+user%3Aponlawat-w&type=repositories
 Naver 한국어-ไทย,nvth,https://korean.dict.naver.com/kothdict/#/search?query={searchTerms}
-NPM,npm,https://www.npmjs.com/search?q={searchTerms}
+NPM,npmjs,https://www.npmjs.com/search?q={searchTerms}
 Nuget,nuget,https://www.nuget.org/packages?q={searchTerms}
 OpenStreetMap,osm,https://www.openstreetmap.org/search?query={searchTerms}
 Qiita,qiita,https://qiita.com/search?q={searchTerms}
