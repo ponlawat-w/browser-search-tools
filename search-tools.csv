@@ -12,6 +12,8 @@ Docker Hub,dckh,https://hub.docker.com/search?q={searchTerms}
 DuckDuckGo,duck,https://duckduckgo.com/?q={searchTerms}
 Epoch Converter,epoch,https://www.epochconverter.com/?source=searchbar&q={searchTerms}
 EPSG.io,epsg,https://epsg.io/?q={searchTerms}
+FlightRadar24 Airport,f24a,https://www.flightradar24.com/airport/{searchTerms}
+FlightRadar24 Flight,f24f,https://www.flightradar24.com/data/flights/{searchTerms}
 GitHub,gh,https://github.com/search?q={searchTerms}
 GitHub Actions Marketplace,gham,https://github.com/marketplace?category=&type=actions&verification=&query={searchTerms}
 GitLab,gl,https://gitlab.com/search?search={searchTerms}
@@ -23,7 +25,7 @@ Google Scholar,gglschl,https://scholar.google.com/scholar?hl=th&q={searchTerms}
 Google ค้นหารูปภาพ,gglimg,https://www.google.co.th/search?q={searchTerms}&sclient=img&tbm=isch
 Google แปลภาษา,ggltr,https://translate.google.co.th/?hl=th&sl=auto&tl=en&text={searchTerms}
 Google แผนที่,gglmaps,https://www.google.com/maps?hl=th&q={searchTerms}
-J-Dora Dic,jdr,https://j-doradic.com/?searchPosition=searchBetween&q={searchTerms}
+J-Dora Dic,jdr,https://j-doradic.com/?position=between&q={searchTerms}
 jisho.org,jso,https://jisho.org/search/{searchTerms}
 MDBG,mdbg,https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=1&wdqb={searchTerms}&dmtm=4
 My Github Repository,mygh,https://github.com/ponlawat-w/{searchTerms}
