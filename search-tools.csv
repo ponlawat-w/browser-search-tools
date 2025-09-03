@@ -31,6 +31,7 @@ MDBG,mdbg,https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=1&wdqb={se
 My Github Repository,mygh,https://github.com/ponlawat-w/{searchTerms}
 My GitHub Search,myghs,https://github.com/search?q={searchTerms}+user%3Aponlawat-w&type=repositories
 Naver 한국어-ไทย,nvth,https://korean.dict.naver.com/kothdict/#/search?query={searchTerms}
+Naver 한자사전,nvhj,https://hanja.dict.naver.com/#/search?query={searchTerms}
 NPM,npmjs,https://www.npmjs.com/search?q={searchTerms}
 Nuget,nuget,https://www.nuget.org/packages?q={searchTerms}
 OpenStreetMap,osm,https://www.openstreetmap.org/search?query={searchTerms}
@@ -42,6 +43,7 @@ Twitter,tws,https://twitter.com/search?q={searchTerms}
 Twitter (ล่าสุด),twsl,https://twitter.com/search?q={searchTerms}&f=live
 UNPKG,unpkg,https://www.unpkg.com/{searchTerms}
 UNPKG Browse,unpkgb,https://www.unpkg.com/browse/{searchTerms}/
+Urban Dictionary,ubd,https://www.urbandictionary.com/define.php?term={searchTerms}
 WordReference Castellano - conjugación,wrescj,https://www.wordreference.com/conj/esverbs.aspx?v={searchTerms}
 WordReference Castellano - English,wresen,https://www.wordreference.com/esen/{searchTerms}
 WordReference Deutsch - English,wrdeen,https://www.wordreference.com/deen/{searchTerms}
@@ -52,5 +54,5 @@ WordReference English - Dutch,wrennl,https://www.wordreference.com/ennl/{searchT
 WordReference English - Français,wrenfr,https://www.wordreference.com/enfr/{searchTerms}
 WordReference Français - Conjugation,wrfrcj,https://www.wordreference.com/conj/frverbs.aspx?v={searchTerms}
 WordReference Français - English,wrfren,https://www.wordreference.com/fren/{searchTerms}
-Y2Mate,y2mate,https://www.y2mate.com/youtube/{searchTerms}
+Y2Mate,y2mate,https://v1.www-y2mate.com/youtube/{searchTerms}
 YouTube,yt,https://www.youtube.com/results?search_query={searchTerms}
