@@ -2,5 +2,6 @@
 
 bun ./xsearch from ./search-tools-xsearch.json ./search-tools.csv
 bun ./xsearch to-edge ./search-tools-xsearch.json ~/Library/Application\ Support/Microsoft\ Edge/Default/Web\ Data
-bun ./xsearch to-edge ./search-tools-xsearch.json ~/Library/Application\ Support/Microsoft\ Edge/Profile\ 1/Web\ Data
+bun ./xsearch to-edge ./search-tools-xsearch.json ~/Library/Application\ Support/Microsoft\ Edge/Profile\ 6/Web\ Data
+bun ./xsearch to-edge ./search-tools-xsearch.json ~/Library/Application\ Support/Microsoft\ Edge/Profile\ 9/Web\ Data
 ./sync
