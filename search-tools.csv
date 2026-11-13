@@ -52,7 +52,10 @@ WordReference English - Castellano,wrenes,https://www.wordreference.com/enes/{se
 WordReference English - Deutsch,wrende,https://www.wordreference.com/ende/{searchTerms}
 WordReference English - Dutch,wrennl,https://www.wordreference.com/ennl/{searchTerms}
 WordReference English - Français,wrenfr,https://www.wordreference.com/enfr/{searchTerms}
+WordReference English - Italiano,wrenit,https://www.wordreference.com/enit/{searchTerms}
 WordReference Français - Conjugation,wrfrcj,https://www.wordreference.com/conj/frverbs.aspx?v={searchTerms}
 WordReference Français - English,wrfren,https://www.wordreference.com/fren/{searchTerms}
+WordReference Italiano - Coniugazione,writcj,https://www.wordreference.com/conj/itverbs.aspx?v={searchTerms}
+WordReference Italiano - English,writen,https://www.wordreference.com/iten/{searchTerms}
 Y2Mate,y2mate,https://v1.www-y2mate.com/youtube/{searchTerms}
 YouTube,yt,https://www.youtube.com/results?search_query={searchTerms}
